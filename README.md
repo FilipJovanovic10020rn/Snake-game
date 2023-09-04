@@ -1,5 +1,5 @@
 ## Introduction
-This is a snake game created from scrach written in c, using the rafgl library. The rafgl library is an educational library made for easy use of graphics manipulation.
+This is a snake game created from scrach written in c, using the rafGL library. The rafGL library is an educational library ( made like openGL) made for easy use of graphics manipulation.
 The point of the project was learning about 2D graphics, pixels, spreadsheets, particles and game development.
 
 ## About the code
